@@ -11,7 +11,7 @@ const MainPage = () => {
               <div className={styles.mainPageText}>
                  <hr></hr>
                   <h2 className={styles.h2} id="#about">About Me</h2>
-                  <p className={styles.p}>I’m a Junior software engineer looking for a new role in an exciting company.I have deep knowledge in the MERN stack, ​​I also provide software engineering solution to tech companies and organizations, I do this by creating successful websites that meet requirements for objectives such as load speed and design, I validate code for proper structuring, security and compatibility with different browsers, device or operating system.  I intend to grow in the tech space and learn more programming languages to enable me become a proficient Senior Software Engineer, and also build a world class solution using tech.</p>
+                  <p className={styles.p}>A proficient Junior software engineer looking for a new role in an exciting company.I have deep knowledge in the MERN stack, ​​I also provide software engineering solution to tech companies and organizations, I do this by creating successful websites that meet requirements for objectives such as load speed and design, I validate code for proper structuring, security and compatibility with different browsers, device or operating system.  I intend to grow in the tech space and learn more programming languages to enable me become a proficient Senior Software Engineer, and also build a world class solution using tech.</p>
                   <button className={styles.mainPageBtn}>
                     <Link className={styles.a2} href="/portfolio">GO TO PORTFOLIO</Link>  
                         </button>
